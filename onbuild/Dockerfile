@@ -1,4 +1,4 @@
-FROM meteorhacks/meteord:base
+FROM daocloud.io/hophacker/meteord
 MAINTAINER MeteorHacks Pvt Ltd.
 
 ONBUILD COPY ./ /app
